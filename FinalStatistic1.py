@@ -113,19 +113,20 @@ members = [
     {
         "name": "Nadilla Novi Anggraini",
         "role": "Leader",
-        "photo_path": "images/poto dilla.jpeg"
+        "photo_path": "poto dilla.jpeg"
     },
     {
         "name": "Ahmad Arda Syafi",
         "role": "Member",
-        "photo_path": "images/poto arda.jpeg"
+        "photo_path": "poto arda.jpeg"
     },
     {
         "name": "Laurensius Mahendra Wisnu Wardana",
         "role": "Member",
-        "photo_path": "images/poto wisnu.jpeg"
+        "photo_path": "poto wisnu.jpeg"
     }
 ]
+
 
 # ---------------------------------------------------------
 # SIDEBAR
